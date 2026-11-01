@@ -1,0 +1,1 @@
+{"devDependencies":{"@types/mithril":"^2.2.9","@types/node":"^24.19.1","flarum-webpack-config":"^3.0.6","mithril":"^2.3.8","typescript":"^7.0.2","webpack":"^5.111.1","webpack-cli":"^7.2.3"},"name":"@leungking/mortgage-calc","private":true,"scripts":{"build":"webpack --mode production"},"type":"module","version":"1.0.0"}
